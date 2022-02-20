@@ -10,10 +10,9 @@ I found out `gh` supports these diagrams, so I'm going to start using it to grap
 stateDiagram-v2
     [*] --> Game_Hacking
     Game_Hacking --> Macros_&_Scripts
-    Game_Hacking --> Nowhere_Good,_Turn_Back!
-    Nowhere_Good,_Turn_Back! --> Game_Hacking
+    Game_Hacking --> Nowhere_Good,_Go_Legit!
+    Nowhere_Good,_Go_Legit! --> CompSci_Program
     Game_Hacking --> Data_Structures_&_Algorithms
-    [*] --> CompSci_Program
     CompSci_Program --> Data_Structures_&_Algorithms
     CompSci_Program --> Web_Developer
     Web_Developer --> HTML
