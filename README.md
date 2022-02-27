@@ -42,7 +42,7 @@ stateDiagram-v2
 GitHub recommends I answer these prompts, so why not? Reach out if you have suggestions to add!
 
 - 🔭 **I’m currently working on** building a knowledgebase from my experiences
-- 🌱 **I’m currently learning** how to transition from Sr Web Developer to Staff+ Engineer or Engineer Manager 😉
+- 🌱 **I’m currently learning** how to transition from Sr Web Developer to Engineer Manager
 - 👯 **I’m looking to collaborate on** quick projects with people trying to break into tech. You can do it! I can help!
 - 🤔 **I’m looking for help with** finding my next role
 - 💬 **Ask me about** the most stereotypical nerd stuff you can think to; I like sci-fi, mechanical keyboards, video games, etc
