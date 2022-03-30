@@ -8,33 +8,31 @@ I found out `gh` supports these diagrams, so I'm going to start using it to grap
 
 ```mermaid
 stateDiagram-v2
-    [*] --> Game_Hacking
-    Game_Hacking --> Macros_&_Scripts
-    Game_Hacking --> Nowhere_Good,_Go_Legit!
-    Nowhere_Good,_Go_Legit! --> CompSci_Program
-    Game_Hacking --> Data_Structures_&_Algorithms
-    CompSci_Program --> Data_Structures_&_Algorithms
-    CompSci_Program --> Web_Developer
-    Web_Developer --> HTML
-    Web_Developer --> CSS
-    Web_Developer --> JavaScript
-    Data_Structures_&_Algorithms --> JavaScript
-    HTML --> WordPress
-    CSS --> WordPress
-    JavaScript --> WordPress
-    PHP --> WordPress
-    WordPress --> Sr_Web_Developer
-    JavaScript --> React
-    JavaScript --> Node.js
-    React --> Next.js
-    Node.js --> Next.js
-    Next.js --> Sr_Web_Developer
-    Sr_Web_Developer --> Your_Company
-    Your_Company --> Staff+_Engineer
-    Your_Company --> Engineering_Manager
-    Staff+_Engineer --> [Your_answer_here]
-    Engineering_Manager --> [Your_answer_here]
-    [Your_answer_here] --> [*]        
+    [*] --> Game_Editing
+    Game_Editing --> Macros_&_Scripts
+    Game_Editing --> Data_Structures_&_Algorithms
+    Macros_&_Scripts --> CompSci_Program
+    Data_Structures_&_Algorithms --> CompSci_Program
+    CompSci_Program --> Tutoring
+    CompSci_Program --> Web_Development
+    HTML --> Web_Development
+    CSS --> Web_Development
+    WordPress --> Web_Development
+    PHP --> Web_Development
+    React --> Web_Development
+    JavaScript --> Web_Development
+    Web_Development --> Jamstack
+    Jamstack --> Next.js
+    Jamstack --> Tailwind_CSS
+    Jamstack --> styled_components
+    Jamstack --> Headless_CMS
+    Jamstack --> Node.js
+    Jamstack --> Frontend_Lead
+    Frontend_Lead --> [//_TODO]
+    [//_TODO] --> Staff+_Engineer
+    [//_TODO] --> Engineering_Manager
+    Staff+_Engineer --> [*]
+    Engineering_Manager --> [*]
 ```
 
 ## GitHub Suggestions
