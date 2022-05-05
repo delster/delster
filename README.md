@@ -28,11 +28,8 @@ stateDiagram-v2
     Jamstack --> Headless_CMS
     Jamstack --> Node.js
     Jamstack --> Frontend_Lead
-    Frontend_Lead --> [//_TODO]
-    [//_TODO] --> Staff+_Engineer
-    [//_TODO] --> Engineering_Manager
-    Staff+_Engineer --> [*]
-    Engineering_Manager --> [*]
+    Frontend_Lead --> Sr_SWE_Site_Experience
+    Sr_SWE_Site_Experience --> [*]
 ```
 
 ## GitHub Suggestions
