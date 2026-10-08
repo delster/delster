@@ -1,3 +1,3 @@
 # David Elster's GitHub Profile
 
-Coming 2024
+I'll never fill this out. Reach out for skunk works and build races.
